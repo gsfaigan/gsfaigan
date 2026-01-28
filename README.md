@@ -1,6 +1,6 @@
-### Hi, I’m Gabe &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-E5E7EB?style=flat-square&logo=gmail&logoColor=6B7280)](mailto:gsfaigan@uwaterloo.ca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-E5E7EB?style=flat-square&logo=inspire&logoColor=6B7280)](https://www.linkedin.com/in/your-profile/) [![faigan.com](https://img.shields.io/badge/faigan.com-E5E7EB?style=flat-square&logo=google-chrome&logoColor=6B7280)](https://www.faigan.com)
+### Hi, I’m Gabe &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-E5E7EB?style=flat-square&logo=gmail&logoColor=6B7280)](mailto:gsfaigan@uwaterloo.ca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-E5E7EB?style=flat-square&logo=inspire&logoColor=6B7280)](https://www.linkedin.com/in/gsfaigan/) [![faigan.com](https://img.shields.io/badge/faigan.com-E5E7EB?style=flat-square&logo=google-chrome&logoColor=6B7280)](https://www.faigan.com)
 I’m a software engineering student @ UWaterloo.
-I like building systems and understanding why they work.
+I like building systems and understanding WHY they work.
 
 #### Currently
 - Exploring backend architecture, applied AI, and thoughtful DB/API design
